@@ -4,7 +4,7 @@ lua54 'yes'
 
 author "sobing"
 
-version '1.0'
+version '1.1'
 
 description "exter-report like nopixel 4.0"
 
